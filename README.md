@@ -20,7 +20,7 @@ The training-free models are evaluated using the `main_evaluation_BP_TRWBP_MPLP.
 
 The trainin-based model is evaluated using the `main_evaluation_GNN.py` file
 
-## Codes are build based on Node-GNN(https://github.com/ks-korovina/pgm_graph_inference)
+## Codes are build based on [Node-GNN](https://github.com/ks-korovina/pgm_graph_inference)
 
 ## Contact
 ceejkl@gmail.com 
