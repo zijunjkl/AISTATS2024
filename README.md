@@ -9,9 +9,9 @@ Create the environment using the `environment.yml` file
 
 ## Datasets
 
-Generate new datasets using the `generate_data_pi_pij.py` file
+Generate new datasets using the `generate_data_pi_pij.py` file and store it under the folder `graphical_models/datasets`
 
-An example set of dataset is included in the folder `graphical_models`
+An example set of data can be downloaded from the [link](https://www.dropbox.com/scl/fo/fhtut27259zr8mdo23j7o/h?rlkey=b0sq52irwqflj8grbqalcdvp3&dl=0)
 
 ## Evaluations
 The proposed model is evaluated using the `main_evaluation_TMPNN.py` file
